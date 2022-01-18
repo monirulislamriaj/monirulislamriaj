@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with javascript
 - 💬 Ask me about Anything from HTML CSS SCSS Bootstrap Gulp Git Javascript React js Hugo Eleventy Tailwindcss
 - 📫 How to reach me At [Facebook](https://www.facebook.com/moniruislam.riaj/)
-- 🤳 [My portfolio](#My-portfolio)
+- 🤳 Checkout  My portfolio [My portfolio](https://riaj.netlify.app/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 ## My-portfolio
-Checkout  My portfolio [here](https://riaj.netlify.app/)
+
 
