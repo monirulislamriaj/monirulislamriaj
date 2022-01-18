@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - [My portfolio](#My-portfolio)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ## My-portfolio
-Checkout the live demo [here](https://riaj.netlify.app/)
+## My-portfolio
+Checkout  My portfolio [here](https://riaj.netlify.app/)
 
